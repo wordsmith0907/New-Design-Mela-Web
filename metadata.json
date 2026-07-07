@@ -1,0 +1,6 @@
+{
+  "name": "Fluid Asset Streams",
+  "description": "An elegant, interactive Web3 liquid staking and smart vault landing page featuring beautiful 3D visuals, live staking calculators, and ecosystem insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

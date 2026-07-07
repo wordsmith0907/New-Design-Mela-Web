@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+  <!-- White Circular Base -->
+  <circle cx="250" cy="250" r="245" fill="#ffeeff" />
+
+  <!-- Outer Stylized "D" Shape - Dark Charcoal Segment -->
+  <path d="M 143,110 L 260,110 C 340,110 395,160 395,250 C 395,340 340,390 260,390 L 143,390 Z M 185,150 L 185,350 C 185,350 250,352 300,310 C 335,280 335,220 300,190 C 250,150 185,150 185,150 Z" 
+        fill="#242525" 
+        fill-rule="evenodd" />
+
+  <!-- White Mask / Gap for Orange Wave -->
+  <path d="M 143,310 C 165,260 190,230 215,230 C 240,230 260,260 275,280 C 290,300 320,175 345,175 C 370,175 395,210 410,260 C 370,320 330,360 288,385 C 265,345 285,305 280,295 C 275,285 255,320 238,310 C 220,300 205,280 198,265 C 180,285 165,300 143,310 Z" 
+        fill="#ffeeff" 
+        stroke="#ffeeff" 
+        stroke-width="18" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" />
+
+  <!-- Vibrant Orange Wave ("M" / Flow Swoosh) -->
+  <path d="M 143,310 C 165,260 190,230 215,230 C 240,230 260,260 275,280 C 290,300 320,175 345,175 C 370,175 395,210 410,260 C 370,320 330,360 288,385 C 265,345 285,305 280,295 C 275,285 255,320 238,310 C 220,300 205,280 198,265 C 180,285 165,300 143,310 Z" 
+        fill="#F15A24" />
+</svg>
